@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "450984432154",
+    "project_id": "min-virtual-store",
+    "storage_bucket": "min-virtual-store.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450984432154:android:19341d66c0fb63d7bef7a3",
+        "android_client_info": {
+          "package_name": "ao.com.flutter_virtual_store"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIcv2q3t7S5STFOXKRyGoOzHc8NGO4S0M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
